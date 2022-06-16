@@ -30,3 +30,5 @@ resultado = [...resultado,producto2]
 resultado = [producto3,...resultado]
 
 console.log(resultado)
+
+//sintaxis declarativa o imperativa

@@ -33,3 +33,5 @@ const producto3 = {
 
 miCarrito.unshift(producto3)
 console.log(miCarrito)
+
+//esta sintaxis se llama expresiva (tradicional)
